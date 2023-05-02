@@ -49,7 +49,7 @@ Oprah once said, "The biggest adventure you can take is to live the life of your
 One day I saw in my dreams of being a successful Author so wise, appreciated, and sought-after
  by society, in my early childhood I used to daydream about contributing Infographics for the NatGeo magazine
   (the wonders of my childhood) while flipping through the pages of NatGeo Megazine I stumbled on in MYC library
-   (youth center in my hometown). During those days I dreamed of my family, friends from school, and acquaintances
+   (youth center in my hometown) this influenced my interest in mixing science with visual communication. During those days I dreamed of my family, friends from school, and acquaintances
     being proud of me (I felt it). Is it too much to dream? :) 
     <p></p>
 I woke up amidst that dream at 4 in the morning and jotted them down in my notebook. 
