@@ -46,14 +46,14 @@ const Contact = () => {
             <SiUpwork className='contact-option-icon'/>
             <h4> Upwork</h4>
             <h5>get me on Upwork</h5>
-            <a href='mailto:yosefkhailu@gmail.com'>send a message</a>
+            <a href='https://www.upwork.com/freelancers/~018a449a94ab7c8718'>send a message</a>
           </article>
 
           <article className='contact_option'>
             <BsWhatsapp className='contact-option-icon'/>
             <h4> Whatsapp</h4>
             <h5>get me on whatsapp</h5>
-            <a href='mailto:yosefkhailu@gmail.com'>send a message</a>
+            <a href='https://wa.me/+251994054127'>send a message</a>
           </article>
 
         </div>
