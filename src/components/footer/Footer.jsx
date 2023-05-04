@@ -20,9 +20,9 @@ const footer = () => {
       </ul>
 
       <div className="footer_socials">
-      <a href='https://t.me/Prolific_jossy'><BsTelegram/></a>
-      <a href='https://www.upwork.com/freelancers/~018a449a94ab7c8718'><SiUpwork/></a>
-      <a href='https://www.linkedin.com/in/yosef-k-hailu-b2949a264/'><AiFillLinkedin/></a>
+      <a href='https://t.me/Prolific_jossy' target='_blank'><BsTelegram/></a>
+      <a href='https://www.upwork.com/freelancers/~018a449a94ab7c8718' target='_blank'><SiUpwork/></a>
+      <a href='https://www.linkedin.com/in/yosef-k-hailu-b2949a264/' target='_blank'><AiFillLinkedin/></a>
       </div>
       <div className="footer_copyright">
         <small>&copy; Konjo PLC. All rights reserved.</small>
