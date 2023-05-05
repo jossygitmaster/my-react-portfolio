@@ -23,7 +23,7 @@ const portfolio = () => {
             translated from english version titled "No More Mr. Nice Guy" 
             by Dr. Robert Glover</h3>
           <div className= 'portfolio-item-cta'>
-          <a href='wwww.upwork.com/me' className='btn' target='_blank'>upwork</a>
+          <a href='https://twitter.com/Yosef_k_Hailu' target='_blank'>Twitter</a>          
           <a href='www.facebook.com/me' className='btn btn-primary' target='_blank'>facebook</a>
           </div>
 
