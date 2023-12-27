@@ -45,7 +45,7 @@ return (
 </article>
 </div>
 <p>
-Oprah once said, "The biggest adventure you can take is to live the life of your dreams". 
+ once said, "The biggest adventure you can take is to live the life of your dreams". 
 One day I saw in my dreams of being a successful Author so wise, appreciated, and sought-after
  by society, in my early childhood I used to daydream about contributing Infographics for the NatGeo magazine
   (the wonders of my childhood) while flipping through the pages of NatGeo Megazine I stumbled on in MYC library
