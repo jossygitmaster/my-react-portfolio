@@ -28,9 +28,9 @@ const portfolio = () => {
           </div>
 
         </article>      <article className='portfolio__item'>
-{/*           <div className='portfolio__item-image'>
+          <div className='portfolio__item-image'>
             <img src={image0} alt=''/> 
-          </div> */}
+          </div>
           <h3>just trying some graphic design burger ad, this was developed for a client in US.</h3>
           <div className= 'portfolio-item-cta'>
           <a href='wwww.upwork.com/me' className='btn' target='_blank'>upwork</a>
