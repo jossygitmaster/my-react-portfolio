@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import TMM from './TMM'
-import me from '../../assets/profile.png'
+import me from '../../assets/profilepro.png'
 import HeaderSocials from './HeaderSocials'
 
 const header = () => {
