@@ -11,7 +11,7 @@ const HeaderSocials = () => {
     <a href='https://twitter.com/Yosef_k_Hailu' target='_blank'><AiFillTwitterCircle/></a>
     <a href='https://linkedin.com/in/yosef-k-hailu-b2949a264' target='_blank'><AiFillLinkedin/></a>
     <a href='https://www.github.com/jossygitmaster/' target='_blank'><AiFillGithub/></a>
-    <a href='https://t.me/Prolific_jossy/'><BsTelegram/></a>
+    <a href='https://t.me/Prolific_jossy/' target='_blank'><BsTelegram/></a>
 </div>
     )
 }
