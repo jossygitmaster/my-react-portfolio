@@ -1,5 +1,5 @@
 import React from 'react'
-import tmm from '../../assets/my graphic design resume.pdf'
+import tmm from '/src/Yosef K.Hailu Translation CV.pdf'
 
 const TMM = () => {
   return (
